@@ -13,6 +13,19 @@ body {
   font-family: math;
   color: #585a61;
 }
+.content-container {
+    display: flex;
+    align-items: center;
+}
+
+.text {
+    flex: 1;
+}
+
+.image-container {
+    flex-shrink: 0;
+    margin-left: 20px; /* Adjust the margin as needed for spacing */
+}
 
 a {
   color: #046DB5;
