@@ -1,6 +1,7 @@
 # **THE TREK**
 # **Hiking Partner And Health Inspector**
 # **Project Id: 23-126**
+### **Website URL - https://parameedilanka.github.io/Research-Website-23-126/**
 
 ## **Main objective**
 The main objective of this research project is to promote the tourism industry from the uniqueness and attraction given by the people to the travel destinations and combining the move-to-earn concept with the hiking destinations by giving rewards to the users and enhance the industry by supporting both users and the people who are directly and indirectly depend on the tourism industry. With combination of activity recognition and health monitoring users can use this app for health purposes also.
